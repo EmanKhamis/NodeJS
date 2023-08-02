@@ -1,6 +1,6 @@
 {
   "homepage": "https://EmanKhamis.github.io/Node.js-APP",
-  "name": "node-farm",
+  "name": "farm",
   "version": "1.0.0",
   "description": "Learning node.js",
   "main": "index.js",
@@ -8,7 +8,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "nodemon index.js"
-   
   },
   "author": "Eman Khamis",
   "license": "ISC",
